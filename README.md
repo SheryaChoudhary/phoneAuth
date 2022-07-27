@@ -1,2 +1,1 @@
-# phoneAuth
-Phone Authentication System using Firebase
+# firebase-phone-auth-php
